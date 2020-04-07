@@ -1,6 +1,6 @@
 ## Tutorial JavaScript Test
 
-[velopert 블로그](https://velog.io/@velopert/react-testing) - 리액트 테스팅 1,2
+[velopert 블로그](https://velog.io/@velopert/react-testing) - 리액트 테스팅 1, 2, 3
 
 ## Tutorial Memo
 
@@ -40,7 +40,7 @@
   세번째 잘차 리팩토링 - 구현한 코드에 중복되는 코드, 혹은 더 개선시킬 방법이 있다면 리팩토링을 진행<br/>
   이 절차가 끝나면 다시 첫번째 절차로 돌아가서 다음 기능을 구현함
 
-#### TDD의 장점
+### TDD의 장점
 
 테스크 케이스를 작성할 때 보통 작은 단위로 만들기 때문에, 코드가 방대해지지 않고 모듈화가 자연스럽게 이루어지면서 개발이 진행됨
 
